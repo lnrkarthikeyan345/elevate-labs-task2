@@ -59,7 +59,7 @@ elevate-labs-task2/
 │   └── Sample - Superstore.csv
 ├── REPORT/
 │   └── report.pbix
-    └── report.pdf
+│   └── report.pdf
 └── SCREENSHOTS/
 └── report.png
 ```
